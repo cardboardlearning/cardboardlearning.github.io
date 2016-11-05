@@ -221,6 +221,11 @@ header .social-icon li a
 		color: #28a7e9;
 		font-weight: bold;
 	}
+#home h6 span
+	{
+		color: #ff69b4 ;
+		font-weight: bold;
+	}
 #home .btn
 	{
 		background: transparent;
@@ -237,7 +242,7 @@ header .social-icon li a
 	}
 #home .btn:hover
 	{
-		background: #28a7e9;
+		background: #fff;
 		border-color: transparent;
 	}
 
